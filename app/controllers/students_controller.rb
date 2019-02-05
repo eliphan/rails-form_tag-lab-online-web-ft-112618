@@ -8,7 +8,7 @@ class StudentsController < ApplicationController
   end
   
   def create
-    redirect_to 
+    redirect_to new_student_path
   end
   
   def show
