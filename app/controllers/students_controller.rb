@@ -8,6 +8,7 @@ class StudentsController < ApplicationController
   end
   
   def create
+    redirect_to 
   end
   
   def show
